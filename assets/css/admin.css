@@ -1,0 +1,55 @@
+body {
+    background-color: #e9ecef;
+}
+
+.form-sign {
+    display: -ms-flexbox;
+    display: -webkit-box;
+    display: flex;
+    -ms-flex-align: center;
+    -ms-flex-pack: center;
+    -webkit-box-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    justify-content: center;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+.card img.icone {
+    width: auto;
+    max-width: 200px;
+    height: auto;
+    margin: 0 auto;
+}
+
+#panel {
+    display: none;
+}
+
+.fa-icon {
+    font-size: 100pt;
+    padding: 33px;
+}
+
+.list-group-green {
+    background-color: #28a745 !important;
+    border: 1px solid #116725 !important;
+}
+
+.margin-btn {
+    margin-top: 31px;
+}
+
+.all-scroll {
+    cursor: all-scroll;
+}
+
+.all-scroll:hover {
+    background-color: #10a032;
+    color: #FFF;
+}
+
+#loading {
+    display: none;
+}

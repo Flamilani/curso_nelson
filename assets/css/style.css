@@ -1,0 +1,59 @@
+body {
+    background-color: #e9ecef;
+}
+
+.form-sign {
+    display: -ms-flexbox;
+    display: -webkit-box;
+    display: flex;
+    -ms-flex-align: center;
+    -ms-flex-pack: center;
+    -webkit-box-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    justify-content: center;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+.logo-login {
+    width: 300px;
+    height: auto;
+}
+
+.card img.icone {
+    width: auto;
+    max-width: 250px;
+    height: auto;
+    margin: 0 auto;
+    margin-bottom: 10px;
+}
+
+.bg-azul-claro {
+    background-color: #71b0f5;
+}
+
+.titulo-curso {
+    font-size: 18px;
+    display: block;
+    margin-bottom: 10px;
+}
+
+footer {
+    margin-top: 5px;
+    margin-bottom: 20px;
+}
+
+.text-gray {
+    color: #e9ecef;
+}
+
+.form-check label:hover {
+    background-color: #cce5ff;
+}
+
+.bg-green {
+    background-color: #28a745 !important;
+    border: 1px solid #116725 !important;
+    color: #fff;
+}
